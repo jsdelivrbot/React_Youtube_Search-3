@@ -20,7 +20,7 @@ class App extends Component {
                      };
         
         
-        this.videoSearch('global warming');
+        this.videoSearch('global warming and its effects');
     }
     
     videoSearch(term) {
